@@ -28,7 +28,7 @@ This project has been developed using the following technologies:
 $ git clone https://github.com/jose-renato-m/ecoleta.git
 
 # Enter into the directory
-$ cd nlw
+$ cd ecoleta
 
 # Install dependencies
 $ npm install
