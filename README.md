@@ -20,7 +20,7 @@ This project has been developed using the following technologies:
 
 ---
 
-## Download
+## 📁 Download
 
 ```bash
 
@@ -37,5 +37,7 @@ $ npm install
 $ npm start
 
 ```
+
+---
 
 Made with 💙 by José Renato Montagnana 👋🏻 [Get in touch!](https://www.linkedin.com/in/joserenato-devfullstack/)
